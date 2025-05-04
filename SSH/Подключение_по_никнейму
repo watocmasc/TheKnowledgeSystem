@@ -1,0 +1,7 @@
+1. Создание файла "config" в директории .ssh/
+2. Содержимое файла "config":
+```
+Host <name_of_host>
+    HostName <ip_of_host>
+    User <name_of_user>
+    Port <port_of_host>
